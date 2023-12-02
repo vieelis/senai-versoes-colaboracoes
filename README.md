@@ -3,8 +3,5 @@ Solução de conflitos
 
 readme de exemplo
 
-<<<<<<< HEAD
-
-=======
-
->>>>>>> tarefa/minha-primeira-branch
+lembrei do comando: git commit
+lembrei do comando: git status
